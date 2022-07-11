@@ -1,0 +1,19 @@
+export function getList (state) {
+  return state.list
+}
+
+export function getPut (state) {
+  return state.put
+}
+
+export function getDelete (state) {
+  return state.delete
+}
+
+export function getData (state) {
+  return state.data
+}
+
+export function getBalance (state) {
+  return state.balance
+}
